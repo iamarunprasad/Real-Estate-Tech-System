@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<!-- code by webdevtrick ( https://webdevtrick.com ) -->
+<html>
+ 
+<head>
+  <meta charset="UTF-8">
+  <title>Pure CSS DropDown Menu</title>
+  <link href="https://fonts.googleapis.com/css?family=Quicksand|Russo+One&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="drop2.css">
+</head>
+<body> 
+<div id="container">
+    <nav>
+        <ul>
+            <li><a href="#">Homeee</a></li>
+            <li><a href="#">Agents Location</a>
+            <ul>
+                <li><a href="#">Avad</a></li>
+<ul>
+                            <li><a href="#">React Native</a></li>
+                            <li><a href="#">React JS</a></li>
+                            <li><a href="#">Material Design</a></li>
+                        </ul>
+                <li><a href="#">Poonamalle</a></li>
+                <li><a href="#">Maduravoyal</a></li>
+            </ul>        
+            </li>
+            <li><a href="#">Land Catagories</a>
+ 
+ <ul>
+                <li><a href="https://web.whatsapp.com/">House Villa</a></li>
+                <li><a href="#">Apartment</a></li>
+                <li><a href="#">Empty Land</a>
+ 
+ <ul>
+                    <li><a href="#">Angular</a></li>
+                    <li><a href="#">VUE</a></li>
+                    <li><a href="#">React</a>
+ 
+                        <ul>
+                            <li><a href="#">React Native</a></li>
+                            <li><a href="#">React JS</a></li>
+                            <li><a href="#">Material Design</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+            <li><a href="#">Price Estimation</a>
+ <ul>
+                <li><a href="#">Total Price Calculator with Sq.feet price</a></li>
+                <li><a href="#">Sq.feet Price calculator with Total Land price </a></li>
+                <li><a href="#">Adobe XD</a></li>
+            </ul>  
+ </li>
+            <li><a href="#">EMI Calculator</a></li>
+            <li>
+            <li><a href="#">Technical Support</a>
+<ul>
+                <li><a href="#">Photoshop</a></li>
+                <li><a href="#">Illustrator</a></li>
+                <li><a href="#">Adobe XD</a></li>
+            </ul>  </li>
+        </ul>
+    </nav>
+  <h1>Simple <span>CSS</span> DropDown Menu</h1>
+<img src="https://shorturl.ae/VSU13" height=300 width=400></img>
+ 
+</div>
+ 
+</body>
+</html>

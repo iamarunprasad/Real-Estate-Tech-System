@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+<script>
+function mul(){
+var a,b,c;
+a=Number(document.getElementById("first").value);
+b=Number(document.getElementById("second").value);
+c=a*b;
+document.getElementById("answer").value=c;
+}
+</script>
+</head>
+<body>
+<br>
+<br>
+<center><h1><font color="blue">Total Sq.feet</font></h1><input id="first"><br></center>
+<center><h1><font color="blue">Amount per Sq.feet<font></h1><input id="second"><br><br></center>
+<center><button onclick="mul()"><h1><font color="blue">Total Value of land</font></h1></button></center>
+<br>
+<center><input id="answer"></center>
+</body>
+</html>

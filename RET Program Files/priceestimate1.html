@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<script>
+function div(){
+var a,b,c;
+a=Number(document.getElementById("first").value);
+b=Number(document.getElementById("second").value);
+c=a/b;
+document.getElementById("answer").value=c;
+}
+</script>
+</head>
+<body>
+<h1>Total Land Price</h1><input id="first"><br>
+<h1>Total Sq.feet</h1><input id="second"><br><br>
+<button onclick="div()"><h1>Amount per Sq.feet</h1></button>
+<input id="answer">
+</body>
+</html>

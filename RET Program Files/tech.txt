@@ -1,0 +1,16 @@
+<html>
+<head><title>Hello</title>
+<body>
+<body style="background-color:yellow;">
+<p><ul><h3><b>Admin Details<b></h3></ul></p>
+<p><ul><h2>-->Subash V      - 6380013456</h3></ul></p>
+<p><ul><h2>-->Arun Prasad V - 8765807763</h3></ul></p>
+<p><ul><h2>-->Venkat Raj M  - 8765807763</h3></ul></p>
+<br>
+<p><ul><h3><b>Email Support<b></h3></ul></p>
+<p><ul><h2><b>realestatetechsystem@gmail.com<b></h3></ul></p>
+<p><ul><h3><b>Please Fill Feedback and Queries in our Website in the below Form<b></h3></ul></p>
+<p><ul><h2><b><a href="https://docs.google.com/forms/d/e/1FAIpQLScngygHZ2SJACzQAOWCWZen2vw8xJjkCUUHmNgTnTqFo7YjwA/viewform?usp=sf_link">FORM</a><b></h3></ul></p>
+<p><h1>WELCOME!!! WELCOME!!! WELCOME!!!</h1></p>
+</body>
+</html>

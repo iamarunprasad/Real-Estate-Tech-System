@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<!-- code by webdevtrick ( https://webdevtrick.com ) -->
+<html>
+ 
+<head>
+  <meta charset="UTF-8">
+  <title>Pure CSS DropDown Menu</title>
+  <link href="https://fonts.googleapis.com/css?family=Quicksand|Russo+One&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="drop2.css">
+</head>
+<body> 
+<div id="container">
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Agents Location</a>
+            <ul>
+                <li><a href="#">Avadi</a>
+               <ul>
+                   <li><a href="#">Ganesh(Agent) Land Sale</a></li>
+                    <li><a href="#">Dinesh(Agent) Land Sale</a></li>
+               </ul>
+             </li>
+              
+
+                <li><a href="#">Poonamalle</a>
+<ul>
+                   <li><a href="#">Arumugam(Agent) Land Sale</a></li>
+                    <li><a href="#">Kumar(Agent) Land Sale</a></li>
+               </ul>
+             </li>
+                <li><a href="#">Maduravoyal</a>
+<ul>
+                   <li><a href="#">Ramu(Agent) Land Sale</a></li>
+                    <li><a href="#">Dilli(Agent) Land Sale</a></li>
+               </ul>
+             </li>
+            </ul>        
+            </li>
+            <li><a href="#">Land Catagories</a>
+ 
+ <ul>
+                <li><a href="https://web.whatsapp.com/">House Villa</a></li>
+                <li><a href="#">Apartment</a></li>
+                <li><a href="#">Empty Land</a>
+ 
+ <ul>
+                    <li><a href="#">Angular</a></li>
+                    <li><a href="#">VUE</a></li>
+                    <li><a href="#">React</a>
+ 
+                        <ul>
+                            <li><a href="#">React Native</a></li>
+                            <li><a href="#">React JS</a></li>
+                            <li><a href="#">Material Design</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                </li>
+            </ul>
+            </li>
+            <li><a href="#">Price Estimation</a>
+ <ul>
+                <li><a href="priceestimate.html">Total Price Calculator with Sq.feet price</a></li>
+                <li><a href="priceestimate1.html">Sq.feet Price calculator with Total Land price </a></li>
+                
+            </ul>  
+ </li>
+            <li><a href="EMIcalc.html">EMI Calculator</a></li>
+            <li>
+            <li><a href="#">Technical Support</a></li>
+        </ul>
+    </nav>
+  <h1>Simple <span>CSS</span> DropDown Menu</h1>
+<img src="https://bit.ly/3wE31eR" height=800 width=1300></img>
+ 
+</div>
+ 
+</body>
+</html>
